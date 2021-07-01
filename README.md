@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/DevQuiz/main/assets/images/logo.png" width="70" alt="Contacts"/>
+      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/AgendaContatos-Flutter/main/assets/images/user.png" width="70" alt="Contacts"/>
 </p>
 
 <h1 align="center">Agenda de Contatos</h1>
@@ -25,8 +25,8 @@
 <h2 align="center">About 📖</h2>
 
 <p>
-    This project was a Contact Book made with Flutter
-    An Application, using sqflite, a packpage from Flutter. Where you can create, consult, edit and delete, also organize them from A-Z, or from Z-A, put photos (from gallery)       and email in your contacts.
+    This project was a Contact Book made with Flutter.<br>
+    An Application, using sqflite, a packpage from Flutter. Where you can create, consult, edit and delete, also organize them from A-Z, or from Z-A, put photos (from gallery)       and email in your contacts.<br>
     This application is in version 1.2. Ready for another one!🚀 <br>
 </p>
 
@@ -43,7 +43,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, and you can access it on Udemy:
+      The Layout was developed by  **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, and you can access it on Udemy:
    
    - **["Creating Android and iOS Apps with Flutter - Create 14 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/?referralCode=1355952A966260D40D18)** 📱
    </p>
