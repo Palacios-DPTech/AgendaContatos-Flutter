@@ -43,7 +43,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by  **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)** , and you can access it on Udemy:
+      The Layout was developed by instructor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, and you can access it on Udemy:
    
    - **["Creating Android and iOS Apps with Flutter - Create 14 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/?referralCode=1355952A966260D40D18)** 📱
    </p>
