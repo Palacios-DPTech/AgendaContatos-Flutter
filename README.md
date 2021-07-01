@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/AgendaContatos-Flutter/main/assets/images/user.png" width="70" alt="Contacts"/>
+      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/AgendaContatos-Flutter/main/assets/img/user.png" width="70" alt="Contacts"/>
 </p>
 
 <h1 align="center">Agenda de Contatos</h1>
@@ -35,7 +35,7 @@
 <h2 align="center">Preview 📱</h2>
 
    <p align="center">
-      <img src="assets/images/agendacontatos.gif" width="400" alt="AgendaContatos">
+      <img src="assets/img/agendacontatos.gif" width="400" alt="AgendaContatos">
    </p>
 
 ---
