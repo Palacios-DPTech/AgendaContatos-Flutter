@@ -2,7 +2,7 @@
       <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/AgendaContatos-Flutter/main/assets/img/user.png" width="70" alt="Contacts"/>
 </p>
 
-<h1 align="center">Agenda de Contatos</h1>
+<h1 align="center">Contact List</h1>
 
 <h2 align="center">Topics 📋</h2>
 
